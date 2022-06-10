@@ -12,3 +12,4 @@
 ## 参考
 * https://www.shipito.com/zh/
 * 物流 API https://letslabel.com/blogs/blog/api-integrate
+* EXP: https://gonglue.us/16090
