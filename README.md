@@ -8,3 +8,7 @@
 4. 跟单系统
 5. 客服系统
 6. 反馈系统
+
+## 参考
+* https://www.shipito.com/zh/
+* 物流 API https://letslabel.com/blogs/blog/api-integrate
